@@ -1,0 +1,14 @@
+
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic/near_me" transform="translate(-3.000000, -3.000000)">
+            <g id="ic_near_me">
+                <g id="Icon-24px">
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                    <polygon id="Shape" fill="#151544" points="21 3 3 10.53 3 11.51 9.84 14.16 12.48 21 13.46 21"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

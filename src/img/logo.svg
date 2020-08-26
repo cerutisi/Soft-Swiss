@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="179px" height="23px" viewBox="0 0 179 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>JobService</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="IBMPlexSans-Medium, IBM Plex Sans" font-size="30" font-weight="400">
+        <g id="UI/Menu/1" transform="translate(-145.000000, -29.000000)">
+            <text id="JobService">
+                <tspan x="145" y="51" fill="#FF4403">JOB</tspan>
+                <tspan x="202.06" y="51" fill="#151544">SERVICE</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
